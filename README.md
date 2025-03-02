@@ -16,18 +16,14 @@
 <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div> <br/>
 
-Apaixonado por tecnologia, atualmente estudande de Engenharia de Software!💻
+Apaixonado por tecnologia, atualmente estudante de Engenharia de Software!💻
 
 
-
-
-<div style="display: inline_block"><br>
-<img align="right" alt="Gif" src="https://cdn.discordapp.com/attachments/900754375482425374/1345776744829030411/tech_gif_with_words.gif?ex=67c5c7c3&is=67c47643&hm=ee5dc2432f4dae4f2edee6d96923d10506e24592f8150280cdfff497d9f927b5&">
-<h2>Contato </h2>
+## Contato
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedromancini19/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=pedromancinitrab@gmail.com)
-</div>
+
 
 
  
