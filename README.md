@@ -22,7 +22,7 @@
 
 ###
 <p align="left">Atualmente moro em Minas Gerais, Brasil!<br>
-Tenho 19 anos e sou estudante de Engenharia de Software.<br>
+Tenho 20 anos e sou estudante de Engenharia de Software.<br>
  
 - ⚡No meu tempo livre, gosto de me aventurar em alguns exercícios doidos em Java e gosto também de jogar alguns jogos...</p>
 
