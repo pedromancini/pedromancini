@@ -18,19 +18,19 @@
 
 ###
 
-<h3 align="left">👩‍💻Sobre!</h3>
+<h3 align="center">👩‍💻Sobre!</h3>
 
 ###
-<p align="left">Atualmente moro em Minas Gerais, Brasil!<br>
+<p align="center">Atualmente moro em Minas Gerais, Brasil!<br>
 Tenho 20 anos e sou estudante de Engenharia de Software.<br>
  
-- ⚡No meu tempo livre, gosto também de jogar alguns jogos, principalmente cs...</p>
+<p align="center"> - ⚡No meu tempo livre, gosto também de jogar alguns jogos, principalmente cs... </p>
 
 ###
 
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
+<h3 align="center">🛠 Linguagens e Ferramentas</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -57,10 +57,11 @@ Tenho 20 anos e sou estudante de Engenharia de Software.<br>
 
 ###
 
-<h3 align="left">🔥 Status : </h3>
+<h3 align="center">🔥 Status : <br> </br>
 
+ 
 [![Pedro M GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pedromancini&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/pedromancini/github-readme-stats#gh-dark-mode-only)
 [![Pedro M GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=pedromancini&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/pedromancini/github-readme-stats#gh-light-mode-only)
 
-
+</h3>
 
