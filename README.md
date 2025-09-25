@@ -24,7 +24,7 @@
 <p align="left">Atualmente moro em Minas Gerais, Brasil!<br>
 Tenho 20 anos e sou estudante de Engenharia de Software.<br>
  
-- ⚡No meu tempo livre, gosto de me aventurar em alguns exercícios doidos em Java e gosto também de jogar alguns jogos...</p>
+- ⚡No meu tempo livre, gosto também de jogar alguns jogos, principalmente cs...</p>
 
 ###
 
@@ -46,6 +46,9 @@ Tenho 20 anos e sou estudante de Engenharia de Software.<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+          
+  
 </div>
 
 ###
