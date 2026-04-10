@@ -10,21 +10,61 @@
 </div>
 
 ###
-
-
 ###
 
 <h1 align="center">Olá, Eu sou Pedro Mancini 👋</h1>
 
 ###
 
-<h3 align="center">👩‍💻Sobre!</h3>
+<h3 align="center">👩‍💻 Sobre!</h3>
 
 ###
+
 <p align="center">Atualmente moro em Minas Gerais, Brasil!<br>
 Tenho 20 anos e sou estudante do 5° semestre de Engenharia de Software.<br>
- 
+
 <p align="center"> - ⚡No meu tempo livre, gosto também de jogar alguns jogos </p>
+
+###
+
+<h3 align="center">🚀 Projetos</h3>
+
+###
+
+<div align="center">
+  <a href="https://estoquesm.me" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20EstoqueSM-LIVE-39FF14?style=for-the-badge&labelColor=0d1117" height="28" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="700">
+        <h3>📦 EstoqueSM</h3>
+        <p>SaaS completo de gestão de estoque com integração ao <strong>Mercado Livre</strong>.<br>
+        Controle de produtos, movimentações, vendas, chamados de suporte e painel administrativo.<br>
+        Usado em produção por lojistas reais.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+          <img src="https://img.shields.io/badge/Spring_Boot-3.3-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/MySQL-8-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+          <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+          <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
+          <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+        </p>
+        <p>
+          <a href="https://estoquesm.me" target="_blank">
+            <img src="https://img.shields.io/badge/Ver%20Projeto-39FF14?style=for-the-badge&labelColor=0d1117&color=39FF14" height="22"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ###
 
@@ -61,4 +101,3 @@ Tenho 20 anos e sou estudante do 5° semestre de Engenharia de Software.<br>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 </p>
-
